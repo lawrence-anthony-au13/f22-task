@@ -1,0 +1,31 @@
+.hKpNXu {
+  min-height: 100%;
+  box-sizing: border-box;
+  border-radius: 10px;
+  border: 1px solid rgba(65, 62, 101, 0.114);
+  background-color: rgb(255, 255, 255);
+  padding: 20px;
+  min-width: 100%;
+  width: 100%;
+  min-height: 90px;
+  display: flex;
+  -moz-box-align: center;
+  align-items: center;
+}
+
+.ZQDVK {
+  box-sizing: border-box;
+  min-width: 30px;
+  max-width: 30px;
+  min-height: 30px;
+  max-height: 30px;
+  border-radius: 50%;
+  display: flex;
+  -moz-box-align: center;
+  align-items: center;
+  -moz-box-pack: center;
+  justify-content: center;
+  margin-right: 20px;
+  color: rgb(255, 255, 255);
+  background-color: rgb(84, 84, 212);
+}

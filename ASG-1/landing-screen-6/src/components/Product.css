@@ -1,0 +1,47 @@
+@font-face {
+  font-family: CircularStd;
+  src: url("../fonts/Circular\ Std\ Medium\ 500.ttf");
+}
+
+.product-box {
+  display: flex;
+  flex: 1 1 auto;
+}
+
+.Solve-your-daily-lif {
+  /* width: 513px; */
+  height: 126px;
+  margin: 0 0 47px;
+  font-family: CircularStd;
+  font-size: 54px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.17;
+  letter-spacing: -1.69px;
+  color: #19191b;
+}
+
+.product-lines {
+  /* width: 383px;
+  height: 24px;
+  margin: 0 0 1px;
+  font-size: 18.9px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: -0.59px;
+  color: #19191b; */
+  font-family: CircularStd;
+  list-style: none;
+}
+
+.product-lines li {
+  padding-bottom: 10px;
+}
+
+.Oval {
+  width: 32px;
+  height: 32px;
+}
